@@ -78,4 +78,4 @@ contract Election {
     function AllowVoting () public {
         State = StateType.Voting;
     }
-}7
+}
